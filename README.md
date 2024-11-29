@@ -1,5 +1,9 @@
 # Final-Project-Mirza-IND1544
 
+## Inilah Ide Untuk Proyek Saya
+> Membuat Website yang dapat memberikan sebuah penjelasan singkat dari beberapa masalah yang dapat mengakibatkan perubahan iklim  serta memberikan solusi secara singkat,padat,jelas.
+
+
 M8L1
 Tema Hackathon: Perubahan Iklim
 Soal
